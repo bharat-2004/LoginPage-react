@@ -16,6 +16,21 @@ A minimal and efficient React + Vite application with login functionality and ro
 
 ---
 
+---
+
+## 🔑 Valid Login Credentials
+
+Use the following credentials to log in with different roles:
+
+| Role    | Username | Password     |
+|---------|----------|--------------|
+| Admin   | `admin`  | `AdM1n@987$` |
+| Manager | `manager`| `M@nAg3r#321`|
+| User    | `user`   | `Us3r!456$`  |
+
+> These accounts are hardcoded for testing purposes and used to demonstrate role-based routing and access control within the app.
+
+
 ## 🛠️ Getting Started
 
 ### Prerequisites
